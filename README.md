@@ -1,0 +1,1 @@
+This is the part two of Familiarizing with GIT and Python Django Project

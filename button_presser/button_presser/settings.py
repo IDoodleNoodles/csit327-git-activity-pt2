@@ -55,7 +55,7 @@ ROOT_URLCONF = 'button_presser.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'button_presser_app' / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
